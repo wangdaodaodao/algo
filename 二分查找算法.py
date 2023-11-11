@@ -1,14 +1,9 @@
-# alphabet = [chr(ord('a') + i) for i in range(26)]
-# print(alphabet)
+"""
+Name: algo lesson 1
+Author: Your Name
+Date: 2023-11-11
+Version: 1.0
+Description: 王导导算法课程学习.
+"""
 
-dic = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
-
-goal = ['j']
-count = 0
-
-
-length = len(dic)
-
-for c in dic:
-    
